@@ -23,6 +23,10 @@ nav ul li {
 	text-align: center;
 }
 
+.upper{
+	text-decoration: underline;
+}
+
 nav ul li a {
 	text-decoration: none;
 	color: whitesmoke;
